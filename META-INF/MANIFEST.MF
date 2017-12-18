@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: kafka-connect-transform
+Bundle-SymbolicName: kafka-connect-transform
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.nttdata.dataintegration.kafka.connect.transform,
+ com.nttdata.dataintegration.kafka.kafka_connect_transform
